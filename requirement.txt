@@ -42,6 +42,7 @@ jupyter_server==2.12.5
 jupyter_server_terminals==0.5.1
 jupyterlab_pygments==0.3.0
 jupyterlab-widgets==3.0.9
+lightgbm==4.3.0
 lxml==5.1.0
 MarkupSafe==2.1.4
 matplotlib-inline==0.1.6
@@ -51,6 +52,7 @@ nbconvert==7.14.2
 nbformat==5.9.2
 nest-asyncio==1.5.9
 notebook==6.4.5
+numpy==1.26.4
 overrides==7.6.0
 packaging==23.2
 pandocfilters==1.5.1
@@ -77,6 +79,7 @@ referencing==0.32.1
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.17.1
+scipy==1.13.0
 Send2Trash==1.8.2
 setuptools==68.2.2
 simplejson==3.19.2
@@ -98,4 +101,3 @@ websocket-client==1.7.0
 wheel==0.41.2
 widgetsnbextension==4.0.9
 zipp==3.17.0
-lightgbm==4.3.0
